@@ -1,0 +1,73 @@
+*{margin:0px;
+    padding: 0px;}
+    
+    #title{
+    color:rgb(255, 255, 255);
+    font-family:'Trebuchet MS';
+    font-weight:lighter;
+    font-size: 50px;
+    align-items: center;
+    
+    }
+    
+    /*lista de canciones*/
+    #nab1{
+        font-family: 'Trebuchet MS';
+        width: 250px;
+        padding: 20px;
+        margin: 0px;
+        background-color: rgb(161, 209, 231); 
+        }
+        
+        .menu1 {
+            list-style: none;
+        }
+        
+        .menu1 a{
+            text-decoration: none;
+            background-color: rgb(255, 192, 229);
+            color:black;
+            padding: 15px;
+            display:block;
+            align-items: center;
+        }
+        
+        .menu1 a:hover{
+            width: 100%;
+            background-color:rgb(183, 152, 255);
+            color: black;
+        }
+    
+    
+    /*publicidad*/
+    #nab2{
+        background-color:#a9d1ff;
+        height: 50px;
+        width:1024px;
+        padding: 20px;
+        margin: 0px;}
+        
+    
+    /*piedepagina*/
+    #piedepagina{
+        color:black;
+        font-family:'Trebuchet MS';
+        font-weight:lighter;
+        font-size: 15px;
+    
+    }
+    
+    .botonregresar{
+        text-decoration: none;
+        background-color: rgb(255, 192, 229);
+        color:black;
+        padding: 15px;
+        display:block
+        
+    }
+    .botonregresar:hover{
+        width: 90%;
+        background-color:rgb(183, 152, 255);
+        color: black;
+    }
+    
